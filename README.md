@@ -1,2 +1,3 @@
 # HTML Essencial
- Estudos iniciais HTML
+ Estudos iniciais em HTML
+ Primeiro repositório dos exercícios do curso Devtube
