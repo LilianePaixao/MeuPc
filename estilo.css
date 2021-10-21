@@ -1,0 +1,25 @@
+
+        body{
+            font-family: Arial;
+            font-size: 15 px;
+            background-color: #ccc;
+             
+        }
+        table{
+            background-color:#fff;
+            border: 1px solid #000;
+        }
+        thead{ 
+            border: 1px solid #ccc;           
+            backgroun-color:#ccc;
+
+        }
+        th{            
+            padding:20px 20px;
+        }
+        td{
+            padding:9px;
+            border: 1px solid #000;
+        }
+
+  
